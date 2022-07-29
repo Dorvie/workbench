@@ -1,3 +1,9 @@
+# What is this for?
+
+A test harness for specific files or features that can be run separately with minimal dependencies.
+
+And now back to the default react project readme:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
